@@ -1,0 +1,13 @@
+{
+  "name": "shusuta-bioelectronic-platform",
+  "version": "1.0.0",
+  "description": "Shusuta Mode A Wound Care, Glucose Biomonitoring & AI Intelligence Hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
